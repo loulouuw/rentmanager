@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [04/Apr/2024:11:14:46 +0200] "GET /rentmanager HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2024:11:14:46 +0200] "GET /rentmanager HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2024:11:14:46 +0200] "GET /rentmanager/ HTTP/1.1" 302 - http-bio-8080-exec-3 32
+0:0:0:0:0:0:0:1 - - [04/Apr/2024:11:14:46 +0200] "GET /rentmanager/ HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2024:11:14:46 +0200] "GET /rentmanager/home HTTP/1.1" 500 1589 http-bio-8080-exec-5 197
+0:0:0:0:0:0:0:1 - - [04/Apr/2024:11:14:46 +0200] "GET /rentmanager/home HTTP/1.1" 500 1589 http-bio-8080-exec-6 26
+0:0:0:0:0:0:0:1 - - [04/Apr/2024:11:14:46 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0

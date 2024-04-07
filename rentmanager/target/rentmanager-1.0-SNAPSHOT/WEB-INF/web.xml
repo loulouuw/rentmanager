@@ -1,0 +1,16 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+
+	<servelet>
+		<servelet-name>HomeServlet</servelet-name>
+		<servelet-class>ui.servlet.HomeServlet</servelet-class>
+	</servelet>
+
+	<servelet-mapping>
+		<servelet-name>HomeServlet</servelet-name>
+		<url-pattern>/home</url-pattern>
+	</servelet-mapping>
+
+</web-app>
